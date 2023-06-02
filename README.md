@@ -1,2 +1,2 @@
-# Mystery_Rooms
+# Mystery Rooms
 A Java project for an escape room game
